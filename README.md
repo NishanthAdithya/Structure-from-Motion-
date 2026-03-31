@@ -1,4 +1,4 @@
-# Structure from Motion + NeRF
+# Structure from Motion
 
 A two-phase 3D scene reconstruction pipeline:
 
