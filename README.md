@@ -1,6 +1,6 @@
 # Structure from Motion
 
-A two-phase 3D scene reconstruction pipeline:
+3D scene reconstruction pipeline:
 
 - **Phase 1** — Classical incremental Structure-from-Motion (SfM): recovers a 3D point cloud and camera poses from a set of overlapping images
 
